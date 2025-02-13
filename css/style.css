@@ -218,6 +218,20 @@ section {
     fill: white;
 }
 
+.projects-card-title {
+    position: relative;
+    height: 300px;
+    width: auto;
+    padding: 30px;
+    border-radius: 30px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 .projects-card {
     position: relative;
     height: 300px;
